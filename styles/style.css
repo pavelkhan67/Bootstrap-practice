@@ -7,10 +7,3 @@
 .empty{
     color: #72727280;
 }
-.main-body{
-    margin: 0;
-    padding-right: 0;
-    border: 2px solid;
-    min-width: 100%;
-    overflow-x: hidden;
-}
